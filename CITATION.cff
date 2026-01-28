@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this lesson, please cite it as below."
 type: dataset
-title: "Open Qualitative Research (QualCoder)"
+title: "Open Qualitative Research with Taguette"
 authors:
   - family-names: Porter
     given-names: Nathaniel
