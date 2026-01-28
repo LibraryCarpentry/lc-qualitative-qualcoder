@@ -5,11 +5,13 @@ title: "Open Qualitative Research with Taguette"
 authors:
   - family-names: Porter
     given-names: Nathaniel
+ - family-names: Karcher
+    given-names: Sebastian
 abstract: "Familiarizes learners with the application of open science principles to qualitative research. Focuses on documents or transcribed text in a variety of data formats. Learners practice working with secondary qualitative data from the Qualitative Data Repository (QDR) in the free software QualCoder."
 keywords:
   - qualitative research
   - open science
-  - taguette
+  - qualcoder
   - QDR
   - coding
 license: CC-BY-4.0
