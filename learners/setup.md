@@ -2,41 +2,38 @@
 title: Setup
 ---
 
-In this workshop, we will practice reusing qualitative data with the software
-Taguette and a collection of interviews about data reuse published online.
-Please follow the steps below before the workshop to set up your computer.
+In this workshop, we will practice analyzing qualitative data with the
+software QualCoder and a collection of interviews about data reuse
+published online. Please follow the steps below before the workshop to
+set up your computer.
 
 ## Data Sets
 
-The data we will use is available from the [Qualitative Data Repository][qdr] 
-(QDR) and requires creating a free QDR account.
-You are welcome to create an account before the workshops, but we will walk 
-through the process of setting up an account and downloading the data during 
-the workshop.
+The [Qualitative Data Repository](https://qdr.syr.edu) (QDR) is a free
+archive of qualitative and mixed methods data. Openly-licensed datasets
+can be downloaded for teaching or research, but require free
+registration. To register, visit the QDR homepage and click “Register”
+at the top right of the page and complete and submit the form on the
+next page. For questions about QDR and registration, please contact
+[qdr\@syr.edu](mailto:qdr@syr.edu).
+
+During the workshop, we will walk through the process of navigating QDR
+to find and download our dataset, as well as importing it to QualCoder.
+Datasets are subject to the QDR license agreement. This workshop
+curriculum is openly licensed
+([CC-BY](https://creativecommons.org/licenses/by/4.0/)) for reuse and
+adaption.
 
 ## Software Setup
 
-We will use the free Coding and Qualitative Data Analysis software Taguette
-throughout the workshop.
-When possible, Taguette should be set up to run on your computer by following 
-the latest [Windows, Mac, or Linux instructions][taguette_install].
+We will use the free Coding and Qualitative Data Analysis software
+QualCoder throughout the workshop. QualCoder is a cross-platform tool
+that works on Windows, Mac, and Linux.
 
-When running Taguette, initially a command line window will open. 
-This is a window, usually with a black background. 
-As Taguette runs, lines of text will appear in the command line window. 
-Then the Taguette interface will open in your default web browser. 
-You do not need to interact with the command line window. 
-Leave it open in the background, and work on projects in your web browser.
-
-If you are unable to install Taguette on your own computer, 
-a [free cloud version][taguette_cloud] is also available from the developers,
-after creating a login.
-
-We will demonstrate using a local version of Taguette, 
-but the cloud interface looks and functions identically except for the addition
-of an "Account" menu at the top right, the lack of offline functionality, 
-and the ability to share collaborative projects with others without 
-[self-hosting][taguette_server].
-
-
-[taguette_server]: https://www.taguette.org/self-host.html
+Please find installation instructions for the most recent stable version
+(currently 3.7) on the [QualCoder
+Wiki](https://github.com/ccbogel/QualCoder/releases/). The installers
+mentioned in the instructions can be found below the instructions on the
+Wiki page (you will need to scroll quite a bit). *Note that both Windows and Mac instructions have extra steps
+described in the wiki to ensure the app is fully installed with adequate
+permissions.*
