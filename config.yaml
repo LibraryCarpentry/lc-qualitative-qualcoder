@@ -8,7 +8,7 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'incubator'
+carpentry: 'lc'
 
 # Overall title for pages.
 title: 'Open Qualitative Research with QualCoder'
@@ -27,7 +27,7 @@ life_cycle: 'beta'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/ndporter/open-qualitative-research-qualcoder'
+source: 'https://github.com/librarycarpentry/lc-qualitative-qualcoder'
 
 # Default branch of your lesson
 branch: 'main'
