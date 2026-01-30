@@ -31,7 +31,7 @@ QualCoder throughout the workshop. QualCoder is a cross-platform tool
 that works on Windows, Mac, and Linux.
 
 Please find installation instructions for the most recent stable version
-(currently 3.7) on the [QualCoder
+(currently 3.8) on the [QualCoder
 Wiki](https://github.com/ccbogel/QualCoder/releases/). The installers
 mentioned in the instructions can be found below the instructions on the
 Wiki page (you will need to scroll quite a bit). *Note that both Windows and Mac instructions have extra steps
