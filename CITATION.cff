@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this lesson, please cite it as below."
 type: dataset
-title: "Open Qualitative Research with Taguette"
+title: "Open Qualitative Research with QualCoder"
 authors:
   - family-names: Porter
     given-names: Nathaniel
@@ -17,5 +17,5 @@ keywords:
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2025-12-23
-repository-code: "https://github.com/LibraryCarpentry/lc-qualitative-taguette/"
-url: "https://librarycarpentry.github.io/lc-qualitative-taguette/"
+repository-code: "https://github.com/LibraryCarpentry/lc-qualitative-qualcoder/"
+url: "https://librarycarpentry.github.io/lc-qualitative-qualcoder/"
