@@ -16,7 +16,7 @@ No experience with qualitative software or QDR is necessary, but the lesson assu
 
 ::: 
 
-::: callout
+::: instructor
 
 ## Timing
 
