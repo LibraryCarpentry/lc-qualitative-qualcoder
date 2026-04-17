@@ -20,7 +20,7 @@ No experience with qualitative software or QDR is necessary, but the lesson assu
 
 ## Timing
 
-This lesson is designed to be taught as a 3-4 hour standalone workshop, but can also be taught together with [Taguette](https://librarycarpentry.github.io/lc-qualitative-taguette/) as a full-day (6-7 hour) qualitative research workshop. See [Instructor Notes](./instructors/instructor-notes.md) for recommendations.
+This lesson is designed to be taught as a 3-4 hour standalone workshop, but can also be taught together with [Taguette](https://librarycarpentry.github.io/lc-qualitative-taguette/) as a full-day (6-7 hour) qualitative research workshop. See [Instructor Notes](./instructor/instructor-notes.html) for recommendations.
 
 :::
 
