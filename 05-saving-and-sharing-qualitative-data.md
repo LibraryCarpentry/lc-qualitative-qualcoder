@@ -89,7 +89,7 @@ QualCoder only stores data on your computer. Whether or not you plan to share or
 
 ## Next steps
 
-This lesson has covered basic principles of qualitative research, as well as how to use Taguette for qualitative coding and data analysis. With that foundation, the next step is to find or collect your own data and try it for yourself.
+This lesson has covered basic principles of qualitative research, as well as how to use QualCoder for qualitative coding and data analysis. With that foundation, the next step is to find or collect your own data and try it for yourself.
 
 In addition to the Qualitative Data Repository (used and discussed here), some other social science data archives such as ICPSR have qualitative sections. For qualitative content analysis, there are thousands of open-access archives of documents, research, education resources, and even entire books.
 
